@@ -1,0 +1,51 @@
+City,District,Price ($),Area (m²),Rooms,Floor,Year Built,Property Type,Distance to Metro (km)
+New York,Staten Island,3631882,219,2,27,1950,secondary,2.92
+New York,Bronx,4072486,223,2,33,1908,secondary,0.83
+New York,Staten Island,4355652,247,2,13,1911,secondary,2.03
+New York,Manhattan,1580002,38,4,18,1973,new_build,0.84
+New York,Brooklyn,3719472,222,4,44,1964,secondary,4.59
+New York,Bronx,214401,133,5,35,2009,secondary,1.44
+New York,Manhattan,1336293,123,5,2,1930,new_build,3.15
+New York,Staten Island,4138241,174,5,14,1962,new_build,4.02
+New York,Manhattan,4804878,191,4,20,1963,new_build,4.52
+New York,Staten Island,910597,94,3,36,1966,new_build,4.13
+New York,Brooklyn,1543649,202,2,22,1924,secondary,4.34
+New York,Staten Island,1654037,99,2,9,1963,secondary,4.96
+New York,Brooklyn,2488510,50,2,39,1949,secondary,4.52
+New York,Queens,872823,73,6,18,1965,new_build,4.83
+New York,Manhattan,819038,131,4,48,1929,secondary,0.11
+New York,Bronx,4733721,231,3,4,1969,new_build,4.62
+New York,Queens,3477967,189,1,8,2010,secondary,1.86
+New York,Staten Island,1370537,292,1,49,1917,secondary,0.25
+New York,Staten Island,4400814,93,2,28,1972,secondary,1.21
+New York,Brooklyn,4861321,177,2,49,1939,new_build,1.8
+New York,Manhattan,4400996,284,6,14,2021,new_build,1.85
+New York,Bronx,3172749,144,6,50,1977,new_build,4.01
+New York,Manhattan,951874,233,2,32,2004,new_build,4.53
+New York,Staten Island,3177740,258,4,17,1930,secondary,1.77
+New York,Manhattan,1605678,44,4,27,2019,new_build,4.47
+New York,Staten Island,1683755,240,6,3,1927,new_build,4.52
+New York,Staten Island,2255804,253,6,36,1974,secondary,2.2
+New York,Brooklyn,3658510,58,5,9,1923,secondary,2.56
+New York,Manhattan,973504,181,4,42,1977,new_build,4.46
+New York,Staten Island,3659305,73,1,6,2023,new_build,4.92
+New York,Queens,2367625,249,5,30,1942,secondary,3.95
+New York,Manhattan,3341082,281,1,4,1916,new_build,0.63
+New York,Bronx,4130773,108,2,27,1946,secondary,4.84
+New York,Bronx,4943520,166,2,34,1918,new_build,3.7
+New York,Manhattan,3292935,111,1,18,1991,new_build,0.26
+New York,Staten Island,2333235,56,6,37,2002,secondary,0.74
+New York,Brooklyn,2421629,218,4,25,2008,new_build,1.63
+New York,Staten Island,2415533,265,5,18,2021,secondary,1.07
+New York,Queens,2268925,123,4,42,2014,new_build,4.24
+New York,Queens,1097207,91,4,20,2014,secondary,1.97
+New York,Brooklyn,1317468,57,2,31,1913,new_build,3.56
+New York,Queens,1100299,122,1,1,1951,new_build,4.97
+New York,Manhattan,4051671,42,1,50,2015,secondary,4.49
+New York,Staten Island,1014031,162,5,40,1926,new_build,3.72
+New York,Manhattan,1815547,243,1,23,1926,new_build,0.34
+New York,Bronx,4140258,243,6,5,1949,secondary,1.22
+New York,Manhattan,447935,130,3,44,1909,new_build,1.5
+New York,Bronx,2032967,105,6,9,2023,new_build,1.21
+New York,Manhattan,4519903,162,3,44,2014,new_build,1.52
+New York,Queens,3525505,94,2,34,1967,new_build,1.59
